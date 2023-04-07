@@ -28,7 +28,6 @@ function App() {
     setPage("signup");
   };
   const handleRedirectToLogin = () => {
-    console.log(111)
     setPage("login");
   };
 
