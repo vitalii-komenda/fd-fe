@@ -1,0 +1,24 @@
+.App-container {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  width: 380px;
+  padding: 35px 30px;
+  border-radius: 5px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.App-header {
+  font-family: MarkProBold;
+  color: #1f2a4b;
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 20px;
+}
